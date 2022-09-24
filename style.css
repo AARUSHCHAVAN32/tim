@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background: linear-gradient(blue 0%,black 100%);
+    color:aliceblue
+}
+.line{
+    Height:6px;
+    background-color: aquamarine;
+        width:70px;
+    margin: 8px auto
+        
+}
+img{
+    width:200px;
+    margin-bottom: 20px;
+        border:3px solid white;
+}
+h2{
+    font-family: cursive;
+        font-size: 50px
+}
+.menu{
+    list-style: none;
+    font-family: 'Antonio', sans-serif;
+    position: absolute;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    z-index:10;
+    
+}
+.links{
+    float: left;
+    padding: 9px;
+    font-size: 20px;
+    color: white;
+
+}
+.links:hover
+{
+    background-color: brown
+}
+.articles:hover{color:aliceblue}
+.contacts_1 h3
+{ display:inline}
+.contacts_1  a 
+{ color:white;
+text-decoration: none
+}
+
